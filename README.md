@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Vignesh 
 - 👀 I’m interested in Pyhon Full Stack Development
-- 🌱 I’m currently learning Javascrip
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me vignesh.us21@gmail.com
-- 😄 Pronouns: Vicky
 - ⚡ Fun fact: It's not a bug
 
 <!---
