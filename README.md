@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @21vicky
+- 👋 Hi, I’m Vignesh 
 - 👀 I’m interested in Pyhon Full Stack Development
 - 🌱 I’m currently learning Javascrip
 - 💞️ I’m looking to collaborate on Projects
