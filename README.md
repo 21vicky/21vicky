@@ -1,49 +1,49 @@
-📄 Vignesh U – Resume
+👨‍💻 Vignesh U – Resume
 
-This repository contains my professional resume, highlighting my education, skills, internships, and project experience in Full Stack Development and Web Technologies.
+This repository contains my professional resume highlighting my education, technical skills, internships, and project experience in Web Development and Full Stack Engineering.
 
-👨‍💻 About Me
+🧠 Profile Summary
 
-I am a passionate Developer with hands-on internship experience at Wipro, skilled in building scalable web applications and dashboards.
-I have worked on Angular UI development, SAST security fixes, Power BI dashboards, and MySQL database operations, with a strong foundation in JavaScript, Python, and REST APIs.
+Detail-oriented developer with internship experience at Wipro, skilled in frontend development, dashboard creation, security fixes (SAST), and database operations. Strong foundation in JavaScript, Python, SQL, and modern web frameworks.
 
-📌 Resume Highlights
+🛠️ Key Skills
 
-🎓 B.Tech in Information Technology – SRM Easwari Engineering College (CGPA: 8.6)
+💻 Programming Languages: Python, JavaScript, SQL
 
-💼 Developer Intern – Wipro
+🌐 Web Technologies: HTML, CSS, React.js, Angular
 
-🌐 Experience in Angular, React, Power BI, MySQL
+⚙️ Tools & Platforms: Power BI, Git, GitHub
 
-🔐 Worked on SAST security fixes
+🗄️ Databases: MySQL
 
-📊 Dashboard development & analytics
+📚 Concepts: REST APIs, Debugging, Secure Coding, Agile
 
-🧠 Strong problem-solving & debugging skills
+🎓 Education
 
-🛠️ Technical Skills
+B.Tech – Information Technology
+SRM Easwari Engineering College
+CGPA: 8.6
 
-Languages: Python, JavaScript, HTML, CSS, SQL
+🏢 Experience
 
-Frameworks & Tools: Angular, React.js, Node.js, Power BI
+Developer Intern – Wipro
 
-Databases: MySQL
+Built Angular UI components
 
-Other Skills: REST APIs, Git, GitHub, Agile, Debugging
+Fixed SAST security vulnerabilities
 
-📂 Repository Content
+Created Power BI dashboards
 
-Vignesh_U_Resume.pdf – My latest resume (PDF format)
+Worked with MySQL databases and REST APIs
 
-🔗 Connect With Me
+📁 Repository Content
+
+📄 Vignesh_U_Resume.pdf – Latest resume
+
+📬 Contact
 
 📧 Email: vignesh.us21@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/vignesh-u-66b8311bb
+🔗 LinkedIn: https://linkedin.com/in/vignesh-u-66b8311bb
 
 🐙 GitHub: https://github.com/21vicky
-
-⭐ Note
-
-This repository is maintained to share my resume easily with recruiters and collaborators.
-Feel free to download or view the resume.
