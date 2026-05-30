@@ -33,7 +33,7 @@ const vignesh = {
 - 🌱 Learning **TypeScript**, **Docker**, and **System Design**
 - 💼 Interned at **Wipro** as Data Analyst & AI (Dec 2024 – Nov 2025)
 - ⚡ Fun fact: I build things from frontend to databases, then visualise the data in Power BI dashboards!
-- 📫 Reach me at **vignesh.us2l@email.com**
+- 📫 Reach me at **vignesh.us21@email.com**
 
 <br clear="right"/>
 
