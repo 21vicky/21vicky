@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20U&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Analytics&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20U&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Angular%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Analytics&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Python;NLP+%2F+ML+Enthusiast+%F0%9F%A4%96;Building+clean%2C+scalable+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Angular+%2B+Python;NLP+%2F+ML+Enthusiast+%F0%9F%A4%96;Building+clean%2C+scalable+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@ const vignesh = {
   name        : "Vignesh U",
   location    : "Chennai, Tamil Nadu, India 🇮🇳",
   degree      : "B.Tech Information Technology (GPA: 8.7/10)",
-  stack       : ["React.js", "Python", "JavaScript", "MySQL", "Node.js"],
+  stack       : ["React.js", "Angular", "Python", "JavaScript", "MySQL", "Node.js"],
   dataTools   : ["Power BI", "Pandas", "Tableau", "Excel"],
   currentlyLearning: ["System Design", "TypeScript", "Docker"],
   funFact     : "I once built an NLP model that reads 50k tweets better than I read my texts 😅",
@@ -33,7 +33,7 @@ const vignesh = {
 - 🌱 Learning **TypeScript**, **Docker**, and **System Design**
 - 💼 Interned at **Wipro** as Data Analyst & AI (Dec 2024 – Nov 2025)
 - ⚡ Fun fact: I build things from frontend to databases, then visualise the data in Power BI dashboards!
-- 📫 Reach me at **vignesh.us21@email.com**
+- 📫 Reach me at **vignesh.us21@gmail.com**
 
 <br clear="right"/>
 
@@ -52,6 +52,7 @@ const vignesh = {
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -122,9 +123,9 @@ const vignesh = {
   <summary>🏢 <strong>Wipro</strong> — Data Analyst & AI Intern &nbsp;|&nbsp; Dec 2024 – Nov 2025 &nbsp;|&nbsp; Chennai, Tamil Nadu</summary>
   <br/>
 
-  > ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  > ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-  - 🔧 Designed and contributed to **full-stack web applications** using React.js and Python, supporting end-to-end functionality from UI to database integration.
+  - 🔧 Designed and contributed to **full-stack web applications** using React.js, Angular, and Python, supporting end-to-end functionality from UI to database integration.
   - 🗄️ Wrote and optimized **SQL queries** (joins, aggregations, subqueries) on MySQL databases to support reporting and data validation tasks.
   - 📊 Developed **interactive Power BI dashboards** using DAX and Power Query, improving data visibility and supporting business reporting.
   - 🔗 Assisted in **data modeling and API integration**, connecting frontend interfaces with backend services in an Agile/Scrum environment.
@@ -202,9 +203,9 @@ const vignesh = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vigneshll2l-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshll2l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vignesh1121-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh1121)
 [![GitHub](https://img.shields.io/badge/GitHub-2lvicky-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/2lvicky)
-[![Email](https://img.shields.io/badge/Email-vignesh.us2l@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh.us2l@email.com)
+[![Email](https://img.shields.io/badge/Email-vignesh.us21@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh.us21@gmail.com)
 
 </div>
 
