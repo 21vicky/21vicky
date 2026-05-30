@@ -81,8 +81,6 @@ const vignesh = {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21vicky&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21vicky&layout=compact&theme=tokyonight" />
@@ -103,16 +101,6 @@ const vignesh = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=21vicky&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=21vicky&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -212,3 +200,4 @@ const vignesh = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  
