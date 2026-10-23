@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20U&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20AI%20%26%20Data%20Analytics&descAlignY=62&descSize=15" width="100%" alt="Vignesh U header"/>
-
 <div align="center">
+
+<h1>Vignesh U</h1>
+<p><b>Full Stack Developer | Python | React | AI & Data Analytics</b></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+SQL;Exploring+AI%2C+NLP+%26+Machine+Learning;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -8,9 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=21vicky&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/21vicky">
   <img src="https://img.shields.io/badge/GitHub-21vicky-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -225,14 +224,6 @@ SRM Easwari Engineering College
 
 </div>
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=21vicky&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
-
 ---
 
 ## 🌱 Currently Learning
@@ -264,5 +255,3 @@ SRM Easwari Engineering College
 <i>💡 Learn something new. Build something useful. Repeat.</i>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
