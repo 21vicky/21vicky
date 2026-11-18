@@ -1,11 +1,13 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vignesh%20U&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20AI%20%26%20Data%20Analytics&descAlign=50&descAlignY=58&descSize=17" width="100%" alt="Vignesh U - Developer Profile Header"/>
+<h1>Vignesh U</h1>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" width="100%" alt="Vignesh U profile banner"/>
+
+<h3>Full Stack Developer | Python | AI & Data Analytics</h3>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+React+%7C+SQL;Exploring+AI+%26+Machine+Learning;Building+Projects+That+Solve+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh;Full+Stack+Developer;Python+%7C+React+%7C+SQL;Exploring+AI+%26+Machine+Learning;Building+Projects+That+Solve+Problems" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -15,6 +17,7 @@
 <a href="mailto:vignesh.us21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -28,8 +31,6 @@ Hi! I'm **Vignesh U**, an IT graduate and developer passionate about building pr
 - 🏢 Previously worked as a Data Analyst & AI Intern at Wipro.
 - 🚀 Currently building a portfolio through practical AI projects.
 - 📍 Ranipet, Tamil Nadu, India.
-
-<br/>
 
 ```javascript
 const vignesh = {
@@ -52,37 +53,37 @@ const vignesh = {
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming languages"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming languages"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🌐 Frontend & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs" alt="Frontend and backend"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs" alt="Frontend and backend"/>
 </p>
 
 ### 🤖 AI, Machine Learning & NLP
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine learning tools"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/NLP-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine learning tools"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/NLP-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
 </p>
 
 ### 📊 Data Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecolab" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecolab" alt="Developer tools"/>
 </p>
 
 ---
@@ -197,19 +198,19 @@ I'm always interested in connecting with developers, learning new technologies, 
 <div align="center">
 
 <a href="https://github.com/21vicky">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
 </a>
 <a href="https://linkedin.com/in/vignesh1121">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:vignesh.us21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 **💡 Learn something new. Build something useful. Repeat.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Profile footer"/>
 
 </div>
