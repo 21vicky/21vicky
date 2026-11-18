@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 \<img src="[https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=230&amp;section=header&amp;text=Vignesh%20U&amp;fontSize=65&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=40](https://capsule-render.vercel.app/api?type=waving\&amp;color=0:0F2027,50:203A43,100:2C5364\&amp;height=230\&amp;section=header\&amp;text=Vignesh%20U\&amp;fontSize=65\&amp;fontColor=FFFFFF\&amp;fontAlign=50\&amp;fontAlignY=40)" width="100%" alt="Vignesh U Banner"/>
 
