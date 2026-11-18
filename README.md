@@ -1,29 +1,20 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vignesh%20U&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20AI%20%26%20Data%20Analytics&descAlignY=58&descSize=17" width="100%" alt="Animated profile header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+SQL;Exploring+AI%2C+NLP+%26+Machine+Learning;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vignesh%20U&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20AI%20%26%20Data%20Analytics&descAlign=50&descAlignY=58&descSize=17" width="100%" alt="Vignesh U - Developer Profile Header"/>
 
 <br/>
 
-<p>
-  <a href="https://github.com/21vicky">
-    <img src="https://img.shields.io/badge/GitHub-21vicky-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/vignesh1121">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vignesh.us21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+React+%7C+SQL;Exploring+AI+%26+Machine+Learning;Building+Projects+That+Solve+Problems" alt="Typing SVG"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=21vicky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<br/><br/>
+
+<a href="https://github.com/21vicky"><img src="https://img.shields.io/badge/GitHub-21vicky-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/vignesh1121"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:vignesh.us21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
