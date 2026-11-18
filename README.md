@@ -1,14 +1,14 @@
-<div align="center">
-  <h1>Vignesh U</h1>
-  <p><b>Full Stack Developer | Python | React | AI & Data Analytics</b></p>
+ <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+SQL;Exploring+AI%2C+NLP+%26+Machine+Learning;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vignesh%20U&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20AI%20%26%20Data%20Analytics&descAlignY=58&descSize=17" width="100%" alt="Animated profile header"/>
 
-  <br/>
-  <br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+SQL;Exploring+AI%2C+NLP+%26+Machine+Learning;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
+<br/>
+
+<p>
   <a href="https://github.com/21vicky">
     <img src="https://img.shields.io/badge/GitHub-21vicky-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -18,6 +18,9 @@
   <a href="mailto:vignesh.us21@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=21vicky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -25,15 +28,17 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Vignesh U**, an IT graduate and developer interested in building practical applications using modern web technologies, Python, and AI.
+Hi! I'm **Vignesh U**, an IT graduate and developer passionate about building practical applications using modern web technologies, Python, and Artificial Intelligence.
 
-- 💻 Interested in **Full Stack Development, Python Development, and Software Engineering**
-- 🤖 Exploring **Artificial Intelligence, Natural Language Processing, and Machine Learning**
-- 📊 Experienced in data analytics, SQL, Power BI, and reporting
-- 🏢 Previously worked as a **Data Analyst & AI Intern at Wipro**
-- 🚀 Currently building projects and improving my development skills
-- 📍 Based in Ranipet, Tamil Nadu, India
-- 📫 Email: [vignesh.us21@gmail.com](mailto:vignesh.us21@gmail.com)
+- 💻 Interested in Full Stack Development and Software Engineering.
+- 🐍 Building applications with Python, JavaScript, and React.
+- 🤖 Exploring Artificial Intelligence, NLP, and Machine Learning.
+- 📊 Experienced in SQL, Power BI, and Data Analytics.
+- 🏢 Previously worked as a Data Analyst & AI Intern at Wipro.
+- 🚀 Currently building a portfolio through practical AI projects.
+- 📍 Ranipet, Tamil Nadu, India.
+
+<br/>
 
 ```javascript
 const vignesh = {
@@ -43,8 +48,8 @@ const vignesh = {
   backend: ["Node.js", "REST APIs"],
   databases: ["MySQL"],
   dataAnalytics: ["Power BI", "Pandas", "Excel", "Tableau"],
-  aiML: ["Hugging Face Transformers", "NLP", "scikit-learn", "NLTK"],
-  currentlyBuilding: ["FeelSense AI", "Full Stack Applications"],
+  aiML: ["Hugging Face", "NLP", "scikit-learn", "NLTK"],
+  currentlyLearning: ["Machine Learning", "Generative AI"],
   motto: "Learn continuously. Build consistently. Improve every day."
 };
 ```
@@ -53,138 +58,75 @@ const vignesh = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming languages"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
 ### 🌐 Frontend & Backend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs" alt="Frontend and backend"/>
+</p>
 
 ### 🤖 AI, Machine Learning & NLP
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine learning tools"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/NLP-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+</p>
 
 ### 📊 Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
 
 ### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecolab" alt="Developer tools"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 FeelSense AI — Sentiment & Emotion Analyzer
+A selection of my practical development and AI projects.
 
-**Tech Stack:** Python · Hugging Face Transformers · Gradio · Plotly · Pandas
+### 🤖 AI & Machine Learning Projects
 
-An AI-powered application that analyzes text and predicts sentiment and emotional tone using pretrained Transformer models.
+| Project | Description | Technologies |
+|---|---|---|
+| [FeelSense AI](https://github.com/21vicky) | Sentiment and emotion analysis from text | Python, Transformers, Gradio |
+| [ResumeIQ](https://github.com/21vicky/ai-resume-job-match-analyzer) | AI-powered resume and job matching analyzer | Python, NLP, Streamlit |
+| [TruthGuard AI](https://github.com/21vicky/TruthGuard-AI) | Fake news classification using machine learning | Python, TF-IDF, Scikit-learn |
+| [CineMatch AI](https://github.com/21vicky/CineMatch-AI) | Content-based movie recommendation system | Python, NLP, Cosine Similarity |
+| [Polyglot AI](https://github.com/21vicky/Polyglot-AI) | Multilingual language detection with Tanglish recognition | Python, Lingua, Streamlit |
+| [AI Language Translator](https://github.com/21vicky/ai-language-translator) | AI-powered English-to-French translation | Python, Transformers, Streamlit |
+| [Handwritten Digit Recognition](https://github.com/21vicky/handwritten-digit-recognition) | Handwritten digit classification | Python, Deep Learning |
 
-**Features**
+### 🌐 Web Development
 
-- 🧠 Positive/negative sentiment classification
-- 💬 Emotion classification across multiple emotion categories
-- 📊 Interactive emotion probability chart
-- 📋 Prediction scores and analysis history
-- 🌙 Clean, dark-themed Gradio dashboard
+**My Pet Shop & Full Stack Applications**
 
-**Status:** Working prototype; deployment in progress.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/) [![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)](https://www.gradio.app/)
-
-<!--
-**Repository:** [FeelSense AI](https://github.com/21vicky/YOUR-REPO-NAME)
--->
+Building responsive web applications using React.js, Vite, REST APIs, and MySQL.
 
 ---
 
-### 🖼️ AI Image Classifier
+## 🧠 30 Days – 30 AI Projects
 
-**Tech Stack:** Python · Hugging Face · Transformers · Gradio · Machine Learning
+Currently working on a hands-on project journey to strengthen my Python, NLP, Machine Learning, and Generative AI skills.
 
-An AI-powered image classification application that identifies and predicts image categories using a pretrained machine learning model.
+**The goal:** Learn by building, document every project, and publish the results on GitHub.
 
-**Features**
-- 🧠 Image classification using a pretrained model
-- 📸 Upload images for predictions
-- 📊 Displays predicted labels and confidence scores
-- 🤗 Integrated with Hugging Face
-- 🌐 Interactive application interface
-
-**Repository:** [AI Image Classifier](https://github.com/21vicky/handwritten-digit-recognition)
-
----
-
-### 🔢 Handwritten Digit Recognition
-
-**Tech Stack:** Python · TensorFlow/Keras · NumPy · Matplotlib · Deep Learning
-
-A deep learning project that recognizes handwritten digits (0–9) using an artificial neural network trained on the MNIST dataset.
-
-**Features**
-- 🧠 Neural network-based digit classification
-- 🔢 Recognizes handwritten digits from 0 to 9
-- 📚 Uses the MNIST dataset for training and testing
-- 📊 Model training and accuracy evaluation
-- 📈 Visualizes predictions and model performance
-
-**Repository:** [Handwritten Digit Recognition](https://github.com/21vicky/handwritten-digit-recognition)
-
----
-
-### 🐾 My Pet Shop
-
-**Tech Stack:** React.js · Vite · JavaScript · HTML · CSS · React Router
-
-A responsive web application demonstrating frontend development, component-based architecture, and client-side navigation.
-
-- Responsive user interface
-- Reusable React components
-- Client-side routing
-- Version control using Git and GitHub
-
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
-
-<!--
-**Repository:** [My Pet Shop](https://github.com/21vicky/YOUR-REPO-NAME)
--->
-
----
-
-### 🛍️ Database-Driven E-Commerce Application
-
-**Tech Stack:** React.js · Python · Node.js · MySQL · REST APIs
-
-A full-stack e-commerce project focused on frontend development, backend integration, and database-driven functionality.
-
-- React-based user interface
-- REST API and JSON data exchange
-- MySQL database integration
-- Shopping cart and order workflow
-
-<!--
-**Repository:** [E-Commerce App](https://github.com/21vicky/YOUR-REPO-NAME)
--->
-
----
-
-### 🧠 Hate Speech Detection — NLP/ML
-
-**Tech Stack:** Python · scikit-learn · NLTK · TF-IDF · Machine Learning
-
-A text-classification project that explores detecting hate speech in tweets using natural language processing and machine learning techniques.
-
-- Text preprocessing and feature extraction
-- TF-IDF-based text representation
-- Model training and evaluation
-- Reported classification accuracy of 87%+ on the project dataset
-
-<!--
-**Repository:** [Hate Speech Detection](https://github.com/21vicky/YOUR-REPO-NAME)
--->
+🔗 [Explore my GitHub repositories](https://github.com/21vicky?tab=repositories)
 
 ---
 
@@ -195,11 +137,11 @@ A text-classification project that explores detecting hate speech in tweets usin
 
 <br/>
 
-- Developed and maintained Power BI dashboards using DAX and Power Query for reporting and data visualization
-- Wrote SQL queries involving joins, aggregations, and subqueries to support data analysis and validation
-- Worked with reporting requirements, data quality checks, and analytical workflows
-- Contributed to web application development and API integration tasks
-- Collaborated in a structured team environment following Agile/Scrum practices
+- Developed Power BI dashboards using DAX and Power Query for reporting and data visualization.
+- Wrote SQL queries involving joins, aggregations, and subqueries to support data analysis.
+- Worked with reporting requirements, data quality checks, and analytical workflows.
+- Contributed to web application development and REST API integration tasks.
+- Collaborated in a structured team environment following Agile/Scrum practices.
 
 </details>
 
@@ -208,10 +150,10 @@ A text-classification project that explores detecting hate speech in tweets usin
 
 <br/>
 
-- Worked on a full-stack e-commerce application using React.js and related web technologies
-- Developed reusable frontend components
-- Assisted with debugging, testing, and application improvements
-- Gained practical experience in application development and version control
+- Worked on a full-stack e-commerce application using React.js and related web technologies.
+- Developed reusable frontend components.
+- Assisted with debugging, testing, and application improvements.
+- Gained practical experience in application development and version control.
 
 </details>
 
@@ -219,18 +161,21 @@ A text-classification project that explores detecting hate speech in tweets usin
 
 ## 🎓 Education
 
-**Bachelor of Technology — Information Technology**
+**Bachelor of Technology – Information Technology**
+
 SRM Easwari Engineering College
+
 **CGPA:** 8.6 / 10
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=21vicky&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21vicky&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=21vicky&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21vicky&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 </div>
 
@@ -238,7 +183,7 @@ SRM Easwari Engineering College
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=21vicky&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="GitHub Streak" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=21vicky&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -246,30 +191,34 @@ SRM Easwari Engineering College
 
 ## 🌱 Currently Learning
 
-- 🤖 Hugging Face Transformers and practical AI applications
-- 🐍 Python development and problem-solving
-- 🌐 Full-stack application development with React and APIs
-- 🗄️ SQL, database concepts, and query optimization
-- ☁️ Cloud deployment and application hosting
+- 🤖 Hugging Face Transformers and practical AI applications.
+- 🐍 Python development and problem-solving.
+- 🧠 Machine Learning and Natural Language Processing.
+- 🌐 Full Stack application development.
+- ☁️ Cloud deployment and application hosting.
 
 ---
 
 ## 🤝 Let's Connect
 
+I'm always interested in connecting with developers, learning new technologies, and collaborating on meaningful projects.
+
 <div align="center">
 
 <a href="https://github.com/21vicky">
-  <img src="https://img.shields.io/badge/GitHub-21vicky-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
 </a>
 <a href="https://linkedin.com/in/vignesh1121">
-  <img src="https://img.shields.io/badge/LinkedIn-vignesh1121-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:vignesh.us21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vignesh.us21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<i>💡 Learn something new. Build something useful. Repeat.</i>
+**💡 Learn something new. Build something useful. Repeat.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
