@@ -5,12 +5,6 @@
 
 </div>
 
- 
- <div align="center">
-
-<h1>Vignesh U</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" width="100%" alt="Vignesh U profile banner"/>
 
 <h3>Full Stack Developer | Python | AI & Data Analytics</h3>
 
