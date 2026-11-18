@@ -1,6 +1,10 @@
+
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Vignesh U Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=230&amp;section=header&amp;text=Vignesh%20U&amp;fontSize=65&amp;fontColor=FFFFFF" width="100%" alt="Vignesh U Banner"/>
+
+</div>
+
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="60" alt="waving hand"/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="60" alt="developer"/>
