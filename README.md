@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Vignesh%20U&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20AI%20%26%20Data%20Analytics&descSize=20&descAlignY=58&descColor=70A5FD" width="100%" alt="Vignesh U Banner"/>
+<img src="assets/banner.svg" width="100%" alt="Vignesh U Banner"/>
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="60" alt="waving hand"/>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f4bb/512.gif" width="60" alt="developer"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="60" alt="developer"/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="60" alt="robot"/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="60" alt="rocket"/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="60" alt="sparkles"/>
@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f4bb/512.gif" width="32" alt=""/> About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Vignesh U**, an IT graduate and developer passionate about building practical applications using modern web technologies, Python, and Artificial Intelligence.
 
@@ -51,7 +51,7 @@ const vignesh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="32" alt=""/> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Currently working on a hands-on project journey to strengthen my Python, NLP, Ma
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="32" alt=""/> Work Experience
+## 💼 Work Experience
 
 <details>
 <summary><strong>🏢 Wipro — Data Analyst & AI Intern</strong> | Dec 2024 – Nov 2025</summary>
@@ -155,7 +155,7 @@ SRM Easwari Engineering College · **CGPA:** 8.6 / 10
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="32" alt=""/> GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -216,6 +216,6 @@ I'm always interested in connecting with developers, learning new technologies, 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=Learn+something+new.;Build+something+useful.;Repeat.+%E2%9C%A8" alt="Closing typing animation"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=twinkling" width="100%" alt="Profile footer"/>
+<img src="assets/footer.svg" width="100%" alt="Profile footer"/>
 
 </div>
